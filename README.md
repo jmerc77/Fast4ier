@@ -6,7 +6,6 @@ An FFT and IFFT Arduino library.
 ```
 #include <complex.h>
 #include <fast4ier.h>
-#include <polar.h> //Optional. Only if used.
 ```
 
 ## Usage
