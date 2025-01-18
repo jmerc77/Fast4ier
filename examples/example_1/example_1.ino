@@ -1,4 +1,4 @@
-#include <fast4ier.h>
+#include <Fast4ier.h>
 #include <complex.h>
 //if you have alot of RAM, uncoment the following for extra precision.
 //#define DOUBLE
