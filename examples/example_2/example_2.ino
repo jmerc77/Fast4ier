@@ -1,5 +1,5 @@
 #include <complex.h>
-#include <fast4ier.h>
+#include <Fast4ier.h>
 
 
 //if you have alot of RAM, uncoment the following for extra precision.
