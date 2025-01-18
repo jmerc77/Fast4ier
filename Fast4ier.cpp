@@ -10,7 +10,7 @@
 //   Reworked from original from LIBROW (info above) to Arduino Lib in c++
 
 //   Include declaration file
-#include <fast4ier.h>
+#include <Fast4ier.h>
 
 
 //   FORWARD FOURIER TRANSFORM
