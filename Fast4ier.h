@@ -9,8 +9,8 @@
 
 //   Reworked from original from LIBROW (info above) to Arduino Lib in c++
 
-#ifndef fast4ier_h
-#define fast4ier_h
+#ifndef Fast4ier_h
+#define Fast4ier_h
 #include "Arduino.h"
 //   Include complex numbers header
 #include <complex.h>
