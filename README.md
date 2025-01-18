@@ -7,7 +7,7 @@ An FFT and IFFT Arduino library.
 
 ```
 #include <complex.h>
-#include <fast4ier.h>
+#include <Fast4ier.h>
 ```
 
 ## Usage
